@@ -1,0 +1,8 @@
+[INFO ] 2022-12-20 19:40:50.253 [main] log4jdemo - this is an info message
+[ERROR] 2022-12-20 19:40:50.256 [main] log4jdemo - this is an error message
+[WARN ] 2022-12-20 19:40:50.256 [main] log4jdemo - this is a warning message
+[FATAL] 2022-12-20 19:40:50.257 [main] log4jdemo - this is a fatal message
+[INFO ] 2022-12-20 19:42:35.759 [main] log4jdemo - this is an info message
+[ERROR] 2022-12-20 19:42:35.763 [main] log4jdemo - this is an error message
+[WARN ] 2022-12-20 19:42:35.763 [main] log4jdemo - this is a warning message
+[FATAL] 2022-12-20 19:42:35.764 [main] log4jdemo - this is a fatal message
